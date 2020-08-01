@@ -3,7 +3,7 @@
   <div class="post-content-outer">
     <div class="post-content-inner ">
       <%if(page.cover){%><div class="post-intro"><%}else{%><div class="post-intro-no-cover"><%}%>
-        <div class="post-title animate__animated  animate__fadeInUp"><%=page.title%></div>
+        <h1 class="post-title animate__animated  animate__fadeInUp"><%=page.title%></h1>
         <div class="meta-intro animate__animated  animate__fadeInUp">
           <span class="intro-span"><%=date(page.date, 'D / M / YYYY') %> by <%=theme.intro.author%></span>
           <!-- Implement estimated readtime -->
