@@ -1,7 +1,7 @@
 <%
 var title = titlecase(page.title);
 if (is_archive()){
-  title = 'blog';   
+  title = 'blog';
 } else if (is_category()){
   title =   page.category;
 } else if (is_tag()){
@@ -14,6 +14,15 @@ if (is_archive()){
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174254341-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-174254341-1');
+  </script>
   <title><% if (title){ %>  <%= title %> | <% } %>   <%= theme.site_name%></title>
   <!-- 标签页图标 -->
   <%if(theme.icon!=undefined){%>

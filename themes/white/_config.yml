@@ -11,7 +11,7 @@ style:
 
 ########## 关于主页的设置 ##########
 # icon
-icon:  /images/favicon.png
+icon:  /favicon.ico
 #  header
 site_name: ROSAI
 
@@ -84,4 +84,4 @@ comments:
 ############## 其他 ##############
 
 # 页脚
-footer: Power by [Hexo](http://hexo.io/) Theme by [White](https://github.com/FuShaoLei/hexo-theme-white) # markdown语法
+footer: Powered by [Hexo](http://hexo.io/) Theme by [White](https://github.com/FuShaoLei/hexo-theme-white) # markdown语法
