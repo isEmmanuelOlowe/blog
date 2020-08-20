@@ -8,15 +8,18 @@ date: 2020-07-28 15:15:03
 You need an online presence. A website will increase your potential customer base, create a brand which makes your business easily recognisable and allow you to be more competitive.  We are well-versed in web technologies and our end-goal is to create the best possible website that shows your brand.
 
 We design websites with a mobile first approach given that most websites on the internet a viewed. Ensuring you are able to reach your audience.
-Products Available:
+
+### Products Available:
 * Static Website (we have single page and 5 page packages websites)
-* E-commerce Websites
+* Content Management Systems (CMS): Wordpress and Ghost
 
-
-For all our web development projects we will provide a hosting plans which include:
-* A FREE domain name
-* A FREE email account for your domain name
-* A FREE SSL certificate for your site
+### For all our web development projects:
+* Hosting Plans
+* Domain name
+* Email account for your domain name
+* SSL certificate for your site
+* Lifetime Support
+* Discounts upon [Design](/design) and [Search Engine Optimisation](/seo) services.
 
 [Contact Us](mailto:contact@rosai.co.uk?subject=WebDev) for a quote for your project
 We are proudly partnered with IONOS to provide hosting for websites.

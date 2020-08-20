@@ -3,7 +3,7 @@ style:
   layout:
     max-width: "1125px" #最大宽度
   color:
-    theme-main: "#1A98FF" # 主色调
+    theme-main: "#ad9551" # 主色调
     theme-secondary: "#DDF0FF" # 次色调
     text-main: "#333333" # 文字主色调
     text-secondary: "#898FA0" # 文字次色调
@@ -26,7 +26,7 @@ menu:
 
 search:
   open: true # 是否开启
-  page: /search # 在上面页面上（通常命名为search）
+  page: /search # Search
 
 
 # 自我介绍
@@ -42,6 +42,9 @@ contact:
   Github:
     - https://github.com/rosaiservices
     - ri-github-line
+  Email:
+    - mailto:rosai.co.uk
+    - ri-mail-line
 
 
 ########## 关于文章的设置 ##########
