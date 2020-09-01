@@ -1,9 +1,10 @@
 ---
-title: Web Development and Design
+title: Web Development
+description: ROSAI offers affordable and modern Website Development for businesses looking to give their customers a seamless browsing experience.
 comments: false
+cover: webdev.jpg
 date: 2020-07-28 15:15:03
 ---
-![](webdev.jpg)
 
 You need an online presence. A website will increase your potential customer base, create a brand which makes your business easily recognisable and allow you to be more competitive.  We are well-versed in web technologies and our end-goal is to create the best possible website that shows your brand.
 
