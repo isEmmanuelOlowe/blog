@@ -6,7 +6,7 @@ cover: seo.jpeg
 date: 2020-07-28 15:15:14
 ---
 
-It’s not enough to have a website. You need to get found! We offer affordable SEO services increasing your competitiveness in search engines boosting your search ranks.
+It’s not enough to have a website. You need to get found! We offer affordable SEO services increasing your competitiveness in search engines and boosting your search ranks.
 
 [We offer free Audits!](mailto:contact:rosai.co.uk?subject=Free-SEO-Audit) to help access the SEO health of your site.
 

@@ -15,8 +15,7 @@ style:
 ########## 关于主页的设置 ##########
 # home页可选类型
 home:
-  type: "home" # 主页的类型，可选 home | img | simple
-
+  type: "home" # 主页的类型，可选 home | img | simples
 # archive页可选类型
 archive:
   type: "simple" # archive的类型，可选 img | simple
@@ -52,8 +51,8 @@ site_name: ROSAI
 description: A web services company based in the UK; providing services in Web Development, Search Engine Optimisation and Graphic Design.
 menu:
   SERVICES: /services
-  PORTFOLIO: /categories/Our-Portfolio/
-  PRODUCTS: /products
+  PORTFOLIO: /categories/Portfolio-Catalogue
+  # PRODUCTS: /categories/Product-Catalogue
   BLOG: /archives
 
 ## 本地搜索
@@ -69,22 +68,24 @@ pagination:
 intro:
   title: we are ROSAI.
   sub: 'A web services company'
-  avator:
+  avator: /favicon.ico
   author: ROSAI
 
 #联系方式
 #更多图标：https://remixicon.com/
 contact:
   Github:
-    - https://github.com/rosaiservices
+    - https://github.com/rosai-dev
     - ri-github-line
   Email:
     - mailto:contact@rosai.co.uk
     - ri-mail-line
+  Contact Form:
+    - https://contact.rosai.co.uk
+    - ri-file-list-2-line
   Tunnel:
     - https://tunnel.rosai.co.uk
     - ri-cloud-line
-
 
 ########## 关于文章的设置 ##########
 
@@ -138,7 +139,7 @@ footer: Powered by [Hexo](http://hexo.io/) Theme by [White](https://github.com/F
 
 #有分类时是否开启menu分类页和自定义名字
 menu_categories:
-  open: true
+  open: false
   name: CATEGORIES
 
 #可自定义归档标签页名字

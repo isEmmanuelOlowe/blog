@@ -7,7 +7,7 @@ date: 2020-08-28 14:50:20
 ---
 ## [Design](/design)
 
-Professional design services to make your:
+Professional design services to create modern:
 * Logos
 * Posters
 * Adverts
@@ -22,4 +22,9 @@ Modern, Responsive Web Development:
 
 ## [Search Engine Optimisation](/seo)
 
-Helping your business getting found by customers
+Helping your business getting found by customers. We will increase search engine rankings by:
+* Maximising potential of on page factors
+* Back-Link building
+* Keyword Analysis
+* Content Creation
+* Copywriting
