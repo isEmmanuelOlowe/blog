@@ -7,12 +7,16 @@ date: 2020-08-28 14:50:20
 ---
 ## [Design](/design)
 
+![](design.jpg)
+
 Professional design services to create modern:
 * Logos
 * Posters
 * Adverts
 
 ## [Web Development](/webdev)
+
+![](webdev.jpg)
 
 Modern, Responsive Web Development:
 * Static Website for Your business
@@ -22,6 +26,7 @@ Modern, Responsive Web Development:
 
 ## [Search Engine Optimisation](/seo)
 
+![](seo.jpeg)
 Helping your business getting found by customers. We will increase search engine rankings by:
 * Maximising potential of on page factors
 * Back-Link building
