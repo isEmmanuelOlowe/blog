@@ -346,6 +346,9 @@ a {
 .gitalk-saysay > #gitalk-container .gt-counts {
   display: none;
 }
+#web-section {
+  font-family: Gothic;
+}
 @-moz-keyframes arrow {
   0% {
     opacity: 0;
