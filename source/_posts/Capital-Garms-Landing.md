@@ -9,4 +9,4 @@ tags:
 
 # [Capital Garms Landing Page](https://capitalgarms.com)
 
-A comming soon landing page for high-end fashion reseller company.
+A coming soon landing page for high-end fashion reseller company.
