@@ -67,7 +67,7 @@ pagination:
 # 自我介绍
 intro:
   title: we are ROSAI.
-  sub: 'A web services company'
+  sub: 'A web and mobile development company'
   avator: /favicon.ico
   author: ROSAI
 
