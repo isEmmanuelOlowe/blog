@@ -13,4 +13,5 @@ Capital Garms
 
 ## Product Page
 
+Here is a sample of the project page created for capital garms.
 ![](/2020/12/11/Capital-Garms/product_page.png)
